@@ -1,0 +1,13 @@
+Page Object Model(POM):
+
+In the 'page layer' of POM, 
+1. We maintain the private By locators. 
+     We are making these private so that no other classes can use these By locators and also no one else can change their values.
+2. We have to create a page constructor
+3. We need to write Public Page Methods/Actions.
+ 
+ 
+ 
+ 
+ 
+ 
